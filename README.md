@@ -115,7 +115,7 @@ wish. Below are some ideas to guide you  (If they are applicable to your App), b
 
 - **Break the project down into different components** (data, presentation, views, styling, activites, fragments) and brainstorm each component individually. Use whiteboards!
 - **Use your Developer Tools** (`console logs`, inspector/ debugger, etc) to debug and solve problems
-- Work together with your group mates and work everyday, **ask questions and come to office hours** when you need to. Think about adding relevant code to your application each day, instead of, you know... _procrastinating_.
+- Work everyday, **ask questions and come to office hours** when you need to. Think about adding relevant code to your application each day, instead of, you know... _procrastinating_.
 - **Commit early, commit often.** Don’t be afraid to break something because you can always go back in time to a previous version.
 - **Check out Tutorial and Documentation resources** at home to better understand what you’ll be getting into.
 - **Don’t be afraid to write code that you know you will have to remove later.** Create temporary elements (View Groups and Views, etc) that trigger events if real data is not available. For example, if you’re trying to figure out how to change some text when the application is over but you haven’t developed the whole application logic, you can create a button to simulate that until then.
