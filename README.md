@@ -71,7 +71,7 @@ include. Add visual flair, add fun features, and show off your skills and creati
 You are encouraged to use your imagination to make this application as nice and complete as you
 wish. Below are some ideas to guide you  (If they are applicable to your App), but you are not restricted to them:
 
-- Use any third party API's
+- Use any third party API(s)
 - Allow user to change app theme - light mode to Dark mode etc.
 - Include Pagination.
 - Let the user “star” or “favorite” certain items in your App, and see them in a separate list.
