@@ -92,7 +92,6 @@ wish. Below are some ideas to guide you  (If they are applicable to your App), b
 * Projects are due Thursday, 16 Dec 2021 at 8:30am!
 
 - A **working application, built by you**
-- Link to your published app/ Name of the published app on Google Play Store **(We will walk you through this process)**
 - A **git repository hosted on Github**, and frequent commits dating back to the _very beginning of the project_
 
 - **A `README.md` file** with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, any other useful information etc.
