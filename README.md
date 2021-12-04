@@ -6,7 +6,7 @@
 
 - To reinforce your learning from the Kotlin Essentials and Android Essentials courses, it’s time for you to build an application of your own design.
 
-**You will be working indivisually for this project**, but we are here to support you and you are here to support each other and your group mates. Show us what you've got!
+**You will be working indivisually for this project**, but we are here to support you and you are here to support each other. Show us what you've got!
 
 ---
 
