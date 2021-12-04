@@ -55,7 +55,6 @@ By the time you submit this project, you will have covered new ground in, and re
 - Design activities and fragments according to your idea
 - Use atleast 1 API of your choice.
 - User should be able to perform CRUD operations with Room Database.
-- Project Deployment
 
 - Exemplify git best practices (frequent, descriptive commit messages, and use a pull request workflow).
 
