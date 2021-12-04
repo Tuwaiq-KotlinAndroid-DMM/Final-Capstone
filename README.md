@@ -49,11 +49,10 @@ By the time you submit this project, you will have covered new ground in, and re
 ## Technical Requirements
 
 - In this project your goal is to demonstrate everything that you have learned so far, and to learn something new.
-- Your assignment is to write a new app from scratch that will use any third party API.
+- Your assignment is to write a new app from scratch with Room Databse.
 
 - Brainstorm your idea for the android application
 - Design activities and fragments according to your idea
-- Use atleast 1 API of your choice.
 - User should be able to perform CRUD operations with Room Database.
 
 - Exemplify git best practices (frequent, descriptive commit messages, and use a pull request workflow).
@@ -72,7 +71,7 @@ include. Add visual flair, add fun features, and show off your skills and creati
 You are encouraged to use your imagination to make this application as nice and complete as you
 wish. Below are some ideas to guide you  (If they are applicable to your App), but you are not restricted to them:
 
-- Use multiple third party API's
+- Use any third party API's
 - Allow user to change app theme - light mode to Dark mode etc.
 - Include Pagination.
 - Let the user “star” or “favorite” certain items in your App, and see them in a separate list.
