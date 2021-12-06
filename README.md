@@ -165,8 +165,5 @@ You **should**:
 - **[Intents and Intent Filters](https://developer.android.com/guide/components/intents-filters)**
 - **[Understanding Android Core: Looper, Handler, and HandlerThread](https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a)**
 - **[Retrofit](https://square.github.io/retrofit/)**
-- **[Git Team Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows)**
-- **[Git Team Cheatsheet](https://jameschambers.co/writing/git-team-workflow-cheatsheet/)**
-- **[Git Team Cheatsheet - Instructions](https://github.com/Tuwaiq-KotlinAndroid-DMM/GIT-Cheat-Sheet/tree/main)**
 
 
