@@ -55,7 +55,7 @@ By the time you submit this project, you will have covered new ground in, and re
 - SRS (functional detailed description of your application)
 - Wire-frame
 - Design activities and fragments according to your idea
-- Use one of the Architecture patterns (MVC, MVVM).
+- Use MVVM Architecture pattern
 - Connect to the backend (Firebase, mockapi.io , or any database resource), and have full CRUD
 - Add authentication for Users
 - Use Implicit Intents
