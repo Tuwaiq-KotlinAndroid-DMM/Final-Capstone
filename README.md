@@ -49,11 +49,24 @@ By the time you submit this project, you will have covered new ground in, and re
 ## Technical Requirements
 
 - In this project your goal is to demonstrate everything that you have learned so far, and to learn something new.
-- Your assignment is to write a new app from scratch with Room Databse.
+- Your assignment is to write a new app from scratch.
 
 - Brainstorm your idea for the android application
+- SRS (functional detailed description of your application)
+- Wire-frame
 - Design activities and fragments according to your idea
-- User should be able to perform CRUD operations with Room Database.
+- Use one of the Architecture patterns (MVC, MVVM).
+- Connect to the backend (Firebase, mockapi.io , or any database resource), and have full CRUD
+- Add authentication for Users
+- Use Implicit Intents
+- Save user preference and settings.
+- Using GitHub (with many branches, commit, meaningful comments).
+- Cleaning Style Code.
+- Good UI/UX, adhere to the material design requirements
+- Unit Testing coverage.
+- No compiler error, no logical error, no runtime error, and no bugs.
+- Localization.
+- Having application notification.
 
 - Exemplify git best practices (frequent, descriptive commit messages, and use a pull request workflow).
 
@@ -71,11 +84,10 @@ include. Add visual flair, add fun features, and show off your skills and creati
 You are encouraged to use your imagination to make this application as nice and complete as you
 wish. Below are some ideas to guide you  (If they are applicable to your App), but you are not restricted to them:
 
-- Use any third party API(s)
-- Allow user to change app theme - light mode to Dark mode etc.
-- Include Pagination.
-- Let the user “star” or “favorite” certain items in your App, and see them in a separate list.
-- Anything else that you can think of!
+- Use of multiple third party APIs (SMS OTP, Google Maps, … )
+- Using at least one of android services (Sensors , Map, Bluetooth, etc.)
+- Deployment on Google Play Store
+- Animations
 
 
 
@@ -88,7 +100,7 @@ wish. Below are some ideas to guide you  (If they are applicable to your App), b
 - Describe how some of your favorite functions work
 
 ## Necessary Deliverables
-* Projects are due Thursday, 16 Dec 2021 at 8:30am!
+* Projects are due Thursday, 16 Dec 2021 or 23 Dec 2021 or 30 Dec 2021 at 8:30am!
 
 - A **working application, built by you**
 - A **git repository hosted on Github**, and frequent commits dating back to the _very beginning of the project_
